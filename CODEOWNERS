@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @davybus-mysode
+/src/backend/database.py      @davybus-mysode
+/src/backend/routers/auth.py  @davybus-mysode
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @davybus-mysode
